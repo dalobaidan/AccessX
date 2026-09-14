@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "806227566965",
+    "firebase_url": "https://accessx-afc83-default-rtdb.firebaseio.com",
+    "project_id": "accessx-afc83",
+    "storage_bucket": "accessx-afc83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806227566965:android:a3b47834ba7cbef844f33c",
+        "android_client_info": {
+          "package_name": "com.example.mobile_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVpt6tyDLWUuqrRSI_dCnJD1zQOz_SjE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

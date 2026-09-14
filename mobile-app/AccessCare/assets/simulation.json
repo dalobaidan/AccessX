@@ -1,0 +1,4 @@
+{
+  "moves": ["down", "left", "right", "up"],
+  "status": ["connected", "disconnected"]
+}
