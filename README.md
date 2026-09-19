@@ -85,6 +85,7 @@ The database export/config file isn't included in this repo, since it contains u
 - Sara Abbara
 - Dana Alobaidan
 - Maha Shaheen
+- Norah Alreshoodi
 
 
 Software Engineering Department, College of Engineering and Advanced Computing, Alfaisal University, Riyadh, Saudi Arabia
